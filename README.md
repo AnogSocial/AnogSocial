@@ -1,3 +1,5 @@
+![Anog Social Logo](https://github.com/AnogSocial/AnogSocial/blob/a4c538536618536bf8f63bb46b8ed33d206bd272/Anog%20Social%20Banner%202.png)
+
 Anog Social is what's happening, what people are talking about right now and what everyone in the world doing.
 It's where news breaks and communities converge.
 And it's all powered by open source, made by a team of amazing people.
